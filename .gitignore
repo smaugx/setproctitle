@@ -1,2 +1,4 @@
 main
 *.o
+hidden_main
+prctl_main
