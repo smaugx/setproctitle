@@ -1,6 +1,8 @@
 # setproctitle
 set process title just like nginx.
 
+More info in my blog: [https://rebootcat.com/2020/10/25/setproctitle/](https://rebootcat.com/2020/10/25/setproctitle/)
+
 # build
 
 ```
